@@ -1,0 +1,10 @@
+{
+  "description":"Logback Configuration Module",
+  "licenses": ["The Apache Software License Version 2.0"],
+  "author": "John Oliver",
+
+  "developers": ["John Oliver"],
+  "keywords": ["logback"],
+
+  "auto-redeploy": false
+}
